@@ -1,0 +1,14 @@
+a{
+    color: white i !important;
+}
+.btn{
+    background:#ec008c;
+    font-weight: 700;
+    color:white !important;
+}
+
+.btn:hover {
+    background-image: linear-gradient(to right top, #ec008c, #fb1670, #ff3754, #ff5539, #f87019);
+
+
+}
